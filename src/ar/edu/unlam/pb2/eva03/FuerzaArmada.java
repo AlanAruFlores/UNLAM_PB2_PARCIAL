@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class FuerzaArmada {
 
-	private Set<Vehiculo> convoy;
+	private List<Vehiculo> convoy;
 	private Map<String, Batalla> batallas; 
 
 }
